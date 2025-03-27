@@ -22,7 +22,7 @@ The full descriptions of the datasets and the studies of origin can be found in 
 - Zheng 68k: [Zheng 68k](https://www.10xgenomics.com/datasets)
 
 ## Usage
-For usage, see [examples](https://github.com/sirius0029/MambaCell/examples) for:
+For usage, see [examples](https://github.com/sirius0029/MambaCell/tree/main/examples) for:
 - pretraining
 - cell type annotation
 - batch integration
