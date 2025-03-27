@@ -10,7 +10,7 @@ During pre-training, we utilize a large-scale pretraining corpus, Genecorpus-30M
 ## Downstream task data
 
 
-The full descriptions of the datasets and the studies of origin can be found in the manuscript. Here we provide the links to access the processed datasets.
+The full descriptions of the datasets and the studies of origin can be found in the manuscript. Here we provide the links to access the datasets.
 
 - PBMC 10K: [scvi_PBMC](https://docs.scvi-tools.org/en/stable/api/reference/scvi.data.pbmc_dataset.html)
 - PBMC 3&86k: [PBMC 3&86k](https://www.10xgenomics.com/datasets)
